@@ -12,5 +12,5 @@ pip install testymctestface \
 
 ## Packages
 
-<a href="/data_science_tools/">data_science_tools</a>
-<a href="/testymctestface/">testymctestface</a>
+<a href="/thebinaries/data_science_tools/">data_science_tools</a>
+<a href="/thebinaries/testymctestface/">testymctestface</a>
