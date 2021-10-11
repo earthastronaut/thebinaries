@@ -1,8 +1,6 @@
-## Simple Packages
+# Simple Packages Server
 
-A simple server using github pages
-
-### Packages
+## Packages
 
 <div class="package" >
     <a href="data_science_tools/">data_science_tools</a>
