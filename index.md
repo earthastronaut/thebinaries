@@ -6,8 +6,7 @@ pip install testymctestface --extra-index-url=https://earthastronaut.github.io/t
 
 ## Packages
 
-<div class="listify">
+<!-- pip important -->
 <a href="/thebinaries/data_science_tools/">data_science_tools</a>
 <a href="/thebinaries/testymctestface/">testymctestface</a>
-</div>
-
+<!-- /pip important -->
